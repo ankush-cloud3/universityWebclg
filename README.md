@@ -9,8 +9,6 @@ A modern, responsive frontend for a university website built using **React**, **
 🚀 **Preview the project here:**
 👉(https://universitysitebms.netlify.app/)
 
-> 🔁 Replace `#` with your deployed link (Vercel / Netlify / GitHub Pages)
-
 ---
 
 ## 🚀 Features
